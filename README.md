@@ -22,7 +22,7 @@ js+html
 
 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1119/094001_c4d2dfac_8324187.png "maun.png")
+![软件界面](https://raw.githubusercontent.com/heiyanmaster/cookiehacker/master/ck123.PNG "maun.png")
 
 #### 参与贡献
 
