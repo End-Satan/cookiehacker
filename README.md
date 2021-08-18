@@ -1,6 +1,14 @@
 # cookie hacker heiyan
 
 #### 介绍
+更新3.0
+本次更新内容智能化替换cookie，优先替换存在的cookie，如果cookie不存在会另外添加！
+修复某些网站注入不成功的问题！
+增加fofa接口
+增加官方xss平台hk.sb
+欢迎大家加入xss平台hk.sb！
+![软件界面](https://cookiehacker.com/ck32.png "maun.png")
+
 cookie hacker 升级版由黑岩更新 修复bug
 1.cookie有时候注入不成功
 2.部分cookie无法识别 列如：admin=admin=123456；user=user=456789；（这类aspx的cookie类型）
