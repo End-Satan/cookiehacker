@@ -6,7 +6,7 @@
 修复某些网站注入不成功的问题！
 增加fofa接口
 免费白嫖fofa接口
-↓↓↓↓↓↓↓↓↓↓↓↓
+→
 https://hk.sb/fofa
 增加官方xss平台hk.sb
 欢迎大家加入xss平台hk.sb！
