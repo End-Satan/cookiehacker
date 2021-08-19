@@ -2,6 +2,7 @@
 
 #### 介绍
 更新3.0
+fofa api fofa免费100条 免费查询fofa 免费fofa
 本次更新内容智能化替换cookie，优先替换存在的cookie，如果cookie不存在会另外添加！
 修复某些网站注入不成功的问题！
 增加fofa接口
